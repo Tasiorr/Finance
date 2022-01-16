@@ -1,8 +1,13 @@
 ## Finance
 ### 1.Simulation
 *   *'BTC_daily_return.ipynb'* - Bitcoin Daily Simple Return
+
 *   *'compound_interest.ipynb'* - compound interest of portfolio by consistently investing
     - Increasing the porfolion by 200$ every months for 20 years. Constant APY 5%
+
+*   *Retire_calculator.ipynb* - How much you need in investments to retire
+
+*   *Dogecoin_ROI.ipynb* - Return of Investment(ROI) based on Dogecoin price
 
 ### 2.Technical Analysis
 *   *'MACD indicator.ipynb'* - Moving Average Convergence Divergence "MACD" indicator and backtesting
