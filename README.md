@@ -1,5 +1,11 @@
 ## Finance
-### 1.Simulation
+
+### 1.Bigger projects:
+*   *'Financial database' - a financial database with Python.
+
+### 2.Portfolio optimisation
+
+### 3.Simulation
 *   *'BTC_daily_return.ipynb'* - Bitcoin Daily Simple Return
 
 *   *'compound_interest.ipynb'* - compound interest of portfolio by consistently investing
@@ -9,7 +15,7 @@
 
 *   *Dogecoin_ROI.ipynb* - Return of Investment(ROI) based on Dogecoin price
 
-### 2.Technical Analysis
+### 4.Technical Analysis
 *   *'MACD indicator.ipynb'* - Moving Average Convergence Divergence "MACD" indicator and backtesting
     - Genereting signals buy / sells for stocks, in this case TESLA, starting from 01.01.2011.
     - Backtesting and calculate the average profit made by one signal
@@ -20,6 +26,8 @@
 *   *'BTC Golden and Death Cross.ipynb'* - Golden and Death Cross.
     - Coss of SMA50 and 200 for BTC
 
-### 3.Fundamental Analysis
+*   *'StochRSI_indicator.ipynb'* - Stochastic Relative Strength Index for 14 days period
 
-### 4.Portfolio optimisation
+### 5.Fundamental Analysis
+
+
