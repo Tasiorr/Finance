@@ -1,33 +1,67 @@
-## Finance
+# All about Financial Market
+---
+### Table of Contents
+* [General Info](#general-info)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Screenshots](#screenshots)
+* [Future Development](#future-development)
 
-### 1.Bigger projects:
-*   *'Financial database' - a financial database with Python.
+### 1. General Info
+This repository is a collection of projects regarding the financial market and it's divided into several topics:
+*   Technical Analysis
+*   Fundamental Analysis
+*   Portfolio optimisation
+*   Simulation
+*   Bigger projects
 
-### 2.Portfolio optimisation
+### 2. Setup
+Dillinger uses a number of open source projects to work properly:
+- Tech 1 - version 1.0
 
-### 3.Simulation
-*   *'BTC_daily_return.ipynb'* - Bitcoin Daily Simple Return
+Proceed to describe how to install / setup one's local environment / get started with the project.
 
-*   *'compound_interest.ipynb'* - compound interest of portfolio by consistently investing
-    - Increasing the porfolion by 200$ every months for 20 years. Constant APY 5%
+### 3. Project Status
+List and description of ready to use projects.
+*   Technical Analysis
 
-*   *Retire_calculator.ipynb* - How much you need in investments to retire
+| FILE | DESCRIPTION |
+| ------ | ------ |
+| MACD indicator.ipynb | Moving Average Convergence Divergence - MACD indicator and backtesting |
+| SMA signals.ipynb | Simple Moving Average Crossover - SMA 20 and 50- Buy / Sell Signals |
+| BTC Golden and Death Cross.ipynb | Golden and Death Cross |
+| StochRSI_indicator.ipynb | Stochastic Relative Strength Index for 14 days period |
 
-*   *Dogecoin_ROI.ipynb* - Return of Investment(ROI) based on Dogecoin price
+*   Simulation
 
-### 4.Technical Analysis
-*   *'MACD indicator.ipynb'* - Moving Average Convergence Divergence "MACD" indicator and backtesting
-    - Genereting signals buy / sells for stocks, in this case TESLA, starting from 01.01.2011.
-    - Backtesting and calculate the average profit made by one signal
+| FILE | DESCRIPTION |
+| ------ | ------ |
+| BTC_daily_return.ipynb | Bitcoin Daily Simple Return |
+| compound_interest.ipynb | Compound interest of portfolio by consistently investing |
+| etire_calculator.ipynb | How much you need in investments to retire |
+| Dogecoin_ROI.ipynb | Return of Investment(ROI) based on Dogecoin price |
 
-*   *'SMA signals.ipynb'* -Simple Moving Average Crossover SMA 20 and 50- Buy / Sell Signals
-    - Genereting signals buy / sells for stocks, in this case Apple, starting from 01.11.2018.
+*   Bigger projects
 
-*   *'BTC Golden and Death Cross.ipynb'* - Golden and Death Cross.
-    - Coss of SMA50 and 200 for BTC
+| FILE | DESCRIPTION |
+| ------ | ------ |
 
-*   *'StochRSI_indicator.ipynb'* - Stochastic Relative Strength Index for 14 days period
+*   Portfolio optimisation
 
-### 5.Fundamental Analysis
+| FILE | DESCRIPTION |
+| ------ | ------ |
 
+*   Fundamental Analysis
 
+| FILE | DESCRIPTION |
+| ------ | ------ |
+
+### 4. Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
+
+### 5. Future Development
+To do:
+- Technical, Fundamental Indicators
+- Portfolio Optimization using Efficient Frontier
+- Price prediction models using maschine learning
